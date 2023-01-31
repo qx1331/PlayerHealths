@@ -16,7 +16,7 @@ class Player:
 # Also you can test the code
 ## ====== ##
 
-p = Player(input(), input())
+p = Player(input(), int(input()))
 # p.hit()
 # p.hit()
 # p.hit()
